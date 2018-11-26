@@ -1,0 +1,4 @@
+Apppregistery - Tells which is the root component of the application
+Pano - Scenery of th application
+View - component to display every thing text, images, objects much of like an div or span in html
+asset() - To load assets from static_assets path which is default path to the assets 
